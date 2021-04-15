@@ -1,0 +1,13 @@
+C:\Users\Bozoweed\source\repos\Launcher\Updater\bin\Release\netcoreapp3.1\Updater.exe
+C:\Users\Bozoweed\source\repos\Launcher\Updater\bin\Release\netcoreapp3.1\Updater.deps.json
+C:\Users\Bozoweed\source\repos\Launcher\Updater\bin\Release\netcoreapp3.1\Updater.runtimeconfig.json
+C:\Users\Bozoweed\source\repos\Launcher\Updater\bin\Release\netcoreapp3.1\Updater.runtimeconfig.dev.json
+C:\Users\Bozoweed\source\repos\Launcher\Updater\bin\Release\netcoreapp3.1\Updater.dll
+C:\Users\Bozoweed\source\repos\Launcher\Updater\bin\Release\netcoreapp3.1\Updater.pdb
+C:\Users\Bozoweed\source\repos\Launcher\Updater\obj\Release\netcoreapp3.1\Updater.csprojAssemblyReference.cache
+C:\Users\Bozoweed\source\repos\Launcher\Updater\obj\Release\netcoreapp3.1\Updater.AssemblyInfoInputs.cache
+C:\Users\Bozoweed\source\repos\Launcher\Updater\obj\Release\netcoreapp3.1\Updater.AssemblyInfo.cs
+C:\Users\Bozoweed\source\repos\Launcher\Updater\obj\Release\netcoreapp3.1\Updater.csproj.CoreCompileInputs.cache
+C:\Users\Bozoweed\source\repos\Launcher\Updater\obj\Release\netcoreapp3.1\Updater.dll
+C:\Users\Bozoweed\source\repos\Launcher\Updater\obj\Release\netcoreapp3.1\Updater.pdb
+C:\Users\Bozoweed\source\repos\Launcher\Updater\obj\Release\netcoreapp3.1\Updater.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Bozoweed\source\repos\Launcher\Updater\bin\Release\netcoreapp3.1\publish\Updater.exe
+C:\Users\Bozoweed\source\repos\Launcher\Updater\bin\Release\netcoreapp3.1\publish\Updater.dll
+C:\Users\Bozoweed\source\repos\Launcher\Updater\bin\Release\netcoreapp3.1\publish\Updater.deps.json
+C:\Users\Bozoweed\source\repos\Launcher\Updater\bin\Release\netcoreapp3.1\publish\Updater.runtimeconfig.json
+C:\Users\Bozoweed\source\repos\Launcher\Updater\bin\Release\netcoreapp3.1\publish\Updater.pdb

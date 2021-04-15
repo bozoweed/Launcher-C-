@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dm08s5JX/umHV+ZPrqe0O1W+bRiumyIB26hQ6KrD/AC5q2wPcEdElVm2rLZxqESDsDuyegE0EW/Ycx8GRE4q5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bozoweed\\source\\repos\\Launcher\\ServerFileGenerator\\ServerFileGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bozoweed\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

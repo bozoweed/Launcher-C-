@@ -1,0 +1,16 @@
+C:\Users\Bozoweed\source\repos\Launcher\Client\bin\Release\netcoreapp3.1\Client.exe
+C:\Users\Bozoweed\source\repos\Launcher\Client\bin\Release\netcoreapp3.1\Client.deps.json
+C:\Users\Bozoweed\source\repos\Launcher\Client\bin\Release\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\Bozoweed\source\repos\Launcher\Client\bin\Release\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\Bozoweed\source\repos\Launcher\Client\bin\Release\netcoreapp3.1\Client.dll
+C:\Users\Bozoweed\source\repos\Launcher\Client\bin\Release\netcoreapp3.1\Client.pdb
+C:\Users\Bozoweed\source\repos\Launcher\Client\obj\Release\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\Users\Bozoweed\source\repos\Launcher\Client\obj\Release\netcoreapp3.1\Client.Form1.resources
+C:\Users\Bozoweed\source\repos\Launcher\Client\obj\Release\netcoreapp3.1\Client.Properties.Resources.resources
+C:\Users\Bozoweed\source\repos\Launcher\Client\obj\Release\netcoreapp3.1\Client.csproj.GenerateResource.cache
+C:\Users\Bozoweed\source\repos\Launcher\Client\obj\Release\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\Bozoweed\source\repos\Launcher\Client\obj\Release\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\Bozoweed\source\repos\Launcher\Client\obj\Release\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\Bozoweed\source\repos\Launcher\Client\obj\Release\netcoreapp3.1\Client.dll
+C:\Users\Bozoweed\source\repos\Launcher\Client\obj\Release\netcoreapp3.1\Client.pdb
+C:\Users\Bozoweed\source\repos\Launcher\Client\obj\Release\netcoreapp3.1\Client.genruntimeconfig.cache

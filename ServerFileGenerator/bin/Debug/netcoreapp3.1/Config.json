@@ -1,0 +1,5 @@
+{
+  "thread": 16,
+  "threadSleep": 1,
+  "debug": false
+}

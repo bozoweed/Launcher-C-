@@ -1,0 +1,5 @@
+C:\Users\Bozoweed\source\repos\Launcher\Client\bin\Release\netcoreapp3.1\publish\Client.exe
+C:\Users\Bozoweed\source\repos\Launcher\Client\bin\Release\netcoreapp3.1\publish\Client.dll
+C:\Users\Bozoweed\source\repos\Launcher\Client\bin\Release\netcoreapp3.1\publish\Client.deps.json
+C:\Users\Bozoweed\source\repos\Launcher\Client\bin\Release\netcoreapp3.1\publish\Client.runtimeconfig.json
+C:\Users\Bozoweed\source\repos\Launcher\Client\bin\Release\netcoreapp3.1\publish\Client.pdb

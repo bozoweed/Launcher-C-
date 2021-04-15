@@ -1,0 +1,10 @@
+{
+  "thread": 12,
+  "threadSleep": 0,
+  "maxRamGoToUse": 2,
+  "debug": false,
+  "api": "http://51.15.15.138/api/launcher/game/",
+  "gameVersion": {
+    "Hurtworld": 2
+  }
+}
