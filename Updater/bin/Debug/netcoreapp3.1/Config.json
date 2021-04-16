@@ -1,8 +1,0 @@
-{
-  "thread": 12,
-  "threadSleep": 0,
-  "maxRamGoToUse": 4,
-  "debug": false,
-  "api": "http://51.15.15.138/api/launcher/game/",
-  "gameVersion": {}
-}

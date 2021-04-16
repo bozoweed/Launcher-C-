@@ -70,6 +70,11 @@ namespace Client.DownloadManager
                 busy = false;
                 return true;
             }
+            if(CountMissingFile(game, gameInfo) >0)
+            {
+                busy = false;
+                return true;
+            }
             /*if (checkfolder)
             {
                 int count = CheckLocalGameInfo(game, gameInfo).Count;
@@ -78,6 +83,23 @@ namespace Client.DownloadManager
             }*/
             busy = false;
             return false;
+        }
+
+        private int CountMissingFile(string game, GameInfo gameInfo)
+        {
+            int count = 0;           
+            List<FolderInfo> RemoteGameInfo = gameInfo.RemoteGameInfo;
+            
+                foreach (FolderInfo folder in RemoteGameInfo)
+                {
+                    if (!Directory.Exists(folder.FolderName))
+                        Directory.CreateDirectory(folder.FolderName);
+                    foreach (FileInfo file in folder.ListedFiles)
+                        if (!File.Exists(@".\" +folder.FolderName + "/" + file.Name))
+                            count++;
+                }
+            
+            return count;
         }
 
         private List<DownloadFileInfo> CheckLocalGameInfo(string game, GameInfo gameInfo)

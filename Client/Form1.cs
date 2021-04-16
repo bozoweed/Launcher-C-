@@ -27,7 +27,7 @@ namespace Client
         internal ProgressBar DownloadBarGUI;
         internal RichTextBox TextBoxGUI;
         internal Button DownloadButtonUI;
-        int Version = 22;
+        int Version = 23;
         private MemoryCleanUp Mem = new MemoryCleanUp();
         System.Timers.Timer Debug = new System.Timers.Timer(1000);
         public Form1()
